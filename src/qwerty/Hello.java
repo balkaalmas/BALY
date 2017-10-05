@@ -13,6 +13,7 @@ System.out.print("Бұл зертхналық жұмыстың мақсаты:")
 
         System.out.println(MyMath.isEven(  12 ));
         System.out.println(MyMath.isEven(  7 ));
+        System.out.print("123");
 
     }
 }
